@@ -11,8 +11,6 @@
 
 **Solusi Perawatan Kesehatan di Rumah Anda**
 
-[Unduh Aplikasi](#) | [Website](https://www.jagabersama.com) | [Dokumentasi](docs/README.md) | [Laporkan Bug](https://github.com/username/jaga-bersama/issues)
-
 </div>
 
 ## 📱 Overview
